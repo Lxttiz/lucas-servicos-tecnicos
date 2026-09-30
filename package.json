@@ -1,0 +1,12 @@
+{
+  "name": "lucas-servicos-tecnicos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Landing page de Lucas Serviços Técnicos em HTML, CSS e JavaScript.",
+  "type": "module",
+  "scripts": {
+    "dev": "node preview.mjs",
+    "start": "node preview.mjs",
+    "check": "node --check script.js"
+  }
+}

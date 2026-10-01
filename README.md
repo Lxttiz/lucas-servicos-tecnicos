@@ -41,7 +41,7 @@ Nesse caso, abra `http://127.0.0.1:4190`. O servidor de prévia aceita conexões
 
 ## Conteúdo e funções atuais
 
-A marca tipográfica é **LUCAS**, sem gota e sem ponto. A logomarca completa aparece na primeira seção, ao lado da chamada principal, com os serviços em tópicos e “Segurança e qualidade”, nas cores do site. A foto de ar-condicionado permanece no portfólio. A página apresenta ar-condicionado, combate a incêndio, gás e cozinha/exaustão, com portfólio, atendimento e contato. O WhatsApp informado é **+55 84 9645-5274**, utilizado nos links sem acrescentar dígitos. Os links de cada serviço preenchem uma mensagem específica. A galeria amplia as fotos; o menu funciona no celular; o botão flutuante aparece quando os botões principais de orçamento não estão visíveis.
+A marca tipográfica é **LUCAS**, sem gota e sem ponto. A logomarca completa aparece na primeira seção, ao lado da chamada principal, com os serviços em tópicos, “Segurança e serviço de qualidade”, o WhatsApp **+55 (84) 99645-5274** e a frase de efeito **24 horas no ar**, nas cores do site. A foto de ar-condicionado permanece no portfólio. A página apresenta ar-condicionado, combate a incêndio, gás e cozinha/exaustão, com portfólio, atendimento e contato. Os links de cada serviço preenchem uma mensagem específica. A galeria amplia as fotos; o menu funciona no celular; o botão flutuante aparece quando os botões principais de orçamento não estão visíveis.
 
 Quatro fotos foram fornecidas pelo usuário como trabalhos de Lucas. As fotos de coifa, fogão e exaustor compacto são ilustrativas em CC0, sem exigência de atribuição. A página não exibe créditos ou links de fontes das imagens. Preserve a documentação das licenças ao redistribuir o projeto.
 

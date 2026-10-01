@@ -34,14 +34,14 @@ Nesse caso, abra `http://127.0.0.1:4190`. O servidor de prévia aceita conexões
 - `index.html`: conteúdo da página, ícones SVG e galeria.
 - `styles.css`: aparência e adaptação para computador, tablet e celular.
 - `script.js`: links de WhatsApp, menu, botão flutuante e visualizador de fotos.
-- `images/`: sete imagens usadas na página, incluindo o exaustor compacto doméstico da última revisão.
+- `images/`: sete fotos usadas na página e a logomarca com os seis serviços em tópicos.
 - `licenses/`: documentação das licenças dos ícones e fotos ilustrativas.
 - `preview.mjs`: servidor de prévia local.
 - `docs/`: prévias visuais e estimativa comercial.
 
 ## Conteúdo e funções atuais
 
-A marca tipográfica é **LUCAS**, sem gota e sem ponto. A página apresenta ar-condicionado, combate a incêndio, gás e cozinha/exaustão, com portfólio, atendimento e contato. O WhatsApp informado é **+55 84 9645-5274**, utilizado nos links sem acrescentar dígitos. Os links de cada serviço preenchem uma mensagem específica. A galeria amplia as fotos; o menu funciona no celular; o botão flutuante aparece quando os botões principais de orçamento não estão visíveis.
+A marca tipográfica é **LUCAS**, sem gota e sem ponto. A logomarca completa aparece na primeira seção, ao lado da chamada principal, com os serviços em tópicos e “Segurança e qualidade”, nas cores do site. A foto de ar-condicionado permanece no portfólio. A página apresenta ar-condicionado, combate a incêndio, gás e cozinha/exaustão, com portfólio, atendimento e contato. O WhatsApp informado é **+55 84 9645-5274**, utilizado nos links sem acrescentar dígitos. Os links de cada serviço preenchem uma mensagem específica. A galeria amplia as fotos; o menu funciona no celular; o botão flutuante aparece quando os botões principais de orçamento não estão visíveis.
 
 Quatro fotos foram fornecidas pelo usuário como trabalhos de Lucas. As fotos de coifa, fogão e exaustor compacto são ilustrativas em CC0, sem exigência de atribuição. A página não exibe créditos ou links de fontes das imagens. Preserve a documentação das licenças ao redistribuir o projeto.
 
